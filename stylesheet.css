@@ -1,5 +1,17 @@
-body.cursive {
-   font-family: Florence, cursive;
-	background-color: #FFFFFF
+body.serif {
+   font-family: Times, Times New Roman, serif;
+	background-color: ##212121;
+	background-image: url("fond.jpeg");
 }
-h1 { color : #1f1f1f; }
+h1 { 
+ font-size: 100px;
+}
+
+P {
+ font-size: 20px;
+}
+a:hover {
+text-decoration: none;
+   color: green;
+   font-style: italic;
+}
