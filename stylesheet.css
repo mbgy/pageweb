@@ -1,6 +1,10 @@
+a{
+text-decoration: none;
+color: #2F4F4F
+}
 body.serif {
    font-family: Times, Times New Roman, serif;
-	background-color: ##212121;
+	background-color: #212121;
 	background-image: url("fond.jpeg");
 }
 h1 { 
